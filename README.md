@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @T-Haba
-- 👀 I’m interested in to use EEG or to use DeepLearning.
-- 🌱 I’m currently learning biometric analysis. 
-- 💞️ I’m not looking to collaborate now.
 - 📫 I'm sorry to don't reach me.
 
 <!---
